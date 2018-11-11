@@ -6,6 +6,7 @@ using namespace std;
 int main()
 {
 	RenderWindow window(VideoMode(1280,1024),"Shark Game",Style::Default);
+	//dghhd
 	while (window.isOpen())
 	{
 		Event event;
